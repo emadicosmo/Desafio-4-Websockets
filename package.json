@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "socket.io": "^4.7.4"
+  },
+  "name": "desafio-4---websockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
