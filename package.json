@@ -8,10 +8,11 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dicosmo Emanuel",
   "license": "ISC",
   "description": ""
 }
